@@ -13,7 +13,7 @@ export default function Home() {
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
           <div className="flex items-center gap-3">
             <img 
-              src="/images/danada-20logo.jpeg"
+              src="/danadalogo.jpeg"
               alt="Danada Funds Logo"
               className="h-10 w-auto"
             />
@@ -228,7 +228,7 @@ export default function Home() {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <img 
-                  src="/images/danada-20logo.jpeg"
+                  src="/danadalogo.jpeg"
                   alt="Danada Funds Logo"
                   className="h-8 w-auto"
                 />
